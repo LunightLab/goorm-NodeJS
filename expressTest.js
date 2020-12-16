@@ -41,5 +41,5 @@ Express 용어 : 미들웨어
     app.use(logger2);
 
     app.listen(3000,function(){
-        console.log('SErver is running');
+        console.log('Server is running');
     });
