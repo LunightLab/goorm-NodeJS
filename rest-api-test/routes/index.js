@@ -9,19 +9,19 @@ router.get('/', function(req, res, next) {
 module.exports = router;
 
 
-// res.status("HTTP상태코드").json("json데이터")
-router.get('/', function(req, res) {
-  res.status(200).json(
-    {
-      "success" : true
-    }
-  );
-});
+// // res.status("HTTP상태코드").json("json데이터")
+// router.get('/', function(req, res) {
+//   res.status(200).json(
+//     {
+//       "success" : true
+//     }
+//   );
+// });
 
-router.get('/test', function(req, res) {
-  res.status(200).json(
-    {
-      "message" : "test"
-    }
-  );
-});
+// router.get('/test', function(req, res) {
+//   res.status(200).json(
+//     {
+//       "message" : "test"
+//     }
+//   );
+// });

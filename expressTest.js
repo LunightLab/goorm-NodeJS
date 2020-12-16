@@ -2,6 +2,12 @@
     // express 프레임워크 왜에 koa나 hapi가 있음.
     // express.js는 Node.js를 위한 빠르고 간편한 웹 프레임워크
     // http://expressjs.com/ko/
+    // 설치
+    // ~/Documents/GitHub/goorm-NodeJS master*
+    // ❯ npm install express                 
+    // added 50 packages, and audited 50 packages in 2s
+    // found 0 vulnerabilities
+    
 /*
 Express 용어 : 라우팅
 Express에는 라우팅 이라는 개념이 있다.
